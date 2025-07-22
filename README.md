@@ -35,6 +35,6 @@
  Useful for organizing reading habits, reflections, and future reading plans.
 
   ScreenShot:
-  [<img width="1920" height="1020" alt="Screenshot 2025-07-22 232650" src="https://github.com/user-attachments/assets/1aa28609-ffd7-4196-83a8-10d452100300"/>]
+  <img width="1920" height="1020" alt="Screenshot 2025-07-22 232650" src="https://github.com/user-attachments/assets/1aa28609-ffd7-4196-83a8-10d452100300"/>
 
   
