@@ -1,0 +1,34 @@
+📚 Book Notes App
+The Book Notes App is a full-stack web application that allows users to manage their personal library by recording notes, ratings, and reading history for each book. Inspired by minimalist reading trackers, it helps users document thoughts, impressions, and details about books they read.
+
+✅ Key Features:
+Add, edit, and delete book entries with title, author, rating, genre, and personal notes.
+
+Sort and filter books by title, rating, or date read.
+
+Search functionality for quick access to any book.
+
+Responsive UI with clean design for ease of use.
+
+Integration with Open Library Covers API to display book cover images.
+
+.
+
+🛠️ Tech Stack:
+Frontend: HTML, CSS, JavaScript, EJS Templates
+
+Backend: Node.js, Express.js
+
+Database: PostgreSQL
+
+API: Open Library Covers API
+
+Other: Axios, dotenv
+
+📌 Use Cases:
+A personal reading tracker for students or book lovers.
+
+A simple CRUD-based project to practice full-stack web development.
+
+Useful for organizing reading habits, reflections, and future reading plans.
+
