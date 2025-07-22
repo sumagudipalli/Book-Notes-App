@@ -1,1 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Add a New Book</title>
+</head>
+<body>
+  <h1> Add a New Book</h1>
+  <form action="/books" method="POST">
+    <label>Title: <input type="text" name="title" required></label><br><br>
+    <label>Author: <input type="text" name="author"></label><br><br>
+    <label>ISBN: <input type="text" name="isbn"></label><br><br>
+    <label>Cover URL: <input type="text" name="cover_url"></label><br><br>
+    <label>Rating (1–10): <input type="number" name="rating" min="1" max="10"></label><br><br>
+    <label>Review: <textarea name="review"></textarea></label><br><br>
+    <label>Date Read: <input type="date" name="date_read"></label><br><br>
+    <button type="submit">Save Book</button>
+  </form>
+</body>
+</html>
 
